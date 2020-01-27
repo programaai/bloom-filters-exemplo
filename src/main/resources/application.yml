@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    # url: "jdbc:h2:mem:bloomfilters"
+    url: "jdbc:h2:mem:bloomfilters"
+
+  h2:
+    console:
+      enabled: true
